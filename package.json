@@ -11,7 +11,7 @@
   "author": "",
   "dependencies": {
     "antd": "^3.23.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "echarts-for-react": "^2.0.15-beta.0",
     "classnames": "^2.2.5",
     "echarts": "^4.1.0",
